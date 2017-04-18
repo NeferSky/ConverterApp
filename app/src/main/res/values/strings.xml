@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConverterApp</string>
+    <string name="meters">В метрах</string>
+    <string name="parrots">В попугаях</string>
+    <string name="btnConvertCaption">Конвертировать</string>
+    <string name="action_settings">Settings</string>
+    <color name="activity_color">#3399cc</color>
+</resources>
